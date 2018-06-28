@@ -9,7 +9,7 @@ Notes:
 - view permissions: `ls -l`
 - Change permissions: `chmod 755 myscript.sh`
 - run it `./myscript.sh`
-
+- use arguments from a previous command: `<command> !*`
 
 - $0 - The name of the Bash script.
 - $1 - $9 - The first 9 arguments to the Bash script. (As mentioned above.)
