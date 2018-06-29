@@ -24,7 +24,11 @@ Notes:
 - $LINENO - Returns the current line number in the Bash script.
 
 
-
+**Operator	Operation**
+`+, -, /*, /` |	addition, subtraction, multiply, divide
+`var++` |	Increase the variable var by 1
+`var--` |	Decrease the variable var by 1
+`%` |	Modulus (Return the remainder after division)
 
 
 References:
