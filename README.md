@@ -23,6 +23,9 @@ Notes:
 - $RANDOM - Returns a different random number each time is it referred to.
 - $LINENO - Returns the current line number in the Bash script.
 
+- If statements are presented in []
+  - reference:https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php#if
+
 
 **Operator	Operation**
 `+, -, /*, /` |	addition, subtraction, multiply, divide
